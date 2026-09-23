@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hanscloudjc.com/sitemap.xml

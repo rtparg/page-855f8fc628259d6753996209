@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "18f5e6da3755389715a81367",
+  "owner": "rtparg",
+  "repo": "page-855f8fc628259d6753996209",
+  "title": "mbSurf",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "855f8fc628259d6753996209",
+      "a": "mbSurf",
+      "b": "2027最新官网",
+      "entity": "mbSurf",
+      "brand": "mbSurf",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a4172123819d38f2deb2af6162ede34e23ecb01279accf08ad2f63253a07679f",
+      "content": {
+        "primary_entity": "mbSurf",
+        "keyword1": "mbSurf",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备挑客户端，订阅导入更顺手。",
+          "AI_DESCRIPTION": "，mbSurf 提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，支持 3 台至 20 台设备同时在线，按年付分别仅需 ¥150、¥350 与 ¥850。",
+          "AI_FEATURES_TITLE": "套餐与配置",
+          "AI_FEATURES_INTRO": "从流量、设备到线路，按需匹配订阅。",
+          "AI_FEATURE_TITLE_1": "按用量选档",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 适合单人轻量，团队版 1000GB 面向多设备协作。",
+          "AI_FEATURE_TITLE_2": "按设备定数",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台，旗舰版 5 台，团队版可 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_3": "按周期计费",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，三档均提供对应的按年付价格方案。",
+          "AI_GUIDE_TITLE": "三步开始",
+          "AI_GUIDE_INTRO": "选服务、看适配、配订阅，三步完成使用前准备。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据人数、流量与设备数量，在基础版、旗舰版和团队版中选定套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端支持情况，备好订阅所需信息。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "打开对应客户端，参照其文档导入订阅并完成连接配置。",
+          "AI_HERO_SUBTITLE": "mbSurf 订阅按需挑",
+          "AI_HERO_INTRO": "mbSurf 为多设备场景提供订阅选择，从基础版到团队版覆盖不同流量和在线设备需求，可按月或按年付费。",
+          "AI_VISUAL_TITLE": "mbSurf 订阅对比",
+          "AI_HIGHLIGHT_1": "三档订阅覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月流量 100GB 到 1000GB",
+          "AI_HIGHLIGHT_3": "月付与年付两种周期",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，年付分别 ¥150、¥350 与 ¥850。",
+          "AI_CLOSING_TITLE": "选对档位",
+          "AI_CLOSING_TEXT": "按设备数和用量挑一档，再参照客户端文档配置订阅。",
+          "AI_FAQ_ANSWER_1": "旗舰版每月 300GB、支持 5 台设备，比基础版多 200GB 与 2 台设备额度，并增加了全节点原生流媒体解锁、IPLC 专线游戏加速优化和 7x24 优先工单支持。日常轻度使用选基础版即可，经常多设备同时在线或玩游戏更适合旗舰版。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。三台设备同时在线需要基础版或更高档位，如果家里有手机、平板和电脑同时使用，基础版的额度基本够用。",
+          "AI_FAQ_ANSWER_3": "年付比月付更省，基础版月付 ¥15、年付 ¥150，旗舰版月付 ¥35、年付 ¥350，团队版月付 ¥85、年付 ¥850。年付适合确定长期使用的场景，月付则方便先体验一个月再决定是否续费。",
+          "AI_FAQ_ANSWER_4": "先确认设备系统，在客户端下载页获取对应版本并安装；然后在 mbSurf 账户中复制订阅地址，粘贴到客户端内完成导入，节点列表刷新后即可选择线路连接。",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备同时在线，提供 VIP 专属高带宽节点与企业定制路由，并配有专属客户经理。适合多成员协作或对带宽和路由有定制需求的小型团队。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付款周期。",
+          "AI_FAQ_QUESTION_1": "旗舰版比基础版多了哪些权益？",
+          "AI_FAQ_QUESTION_2": "三台设备同时在线该选哪个套餐？",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选更合适？",
+          "AI_FAQ_QUESTION_4": "在电脑上怎么使用 mbSurf？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么样的使用场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hanscloudjc.com",
+    "host": "hanscloudjc.com"
+  },
+  "file_hashes": {
+    "index.html": "d2a63a114b72d3fed6dd194e1a5f085511a2b7344bca2973dd7b18b95a867b40",
+    "sitemap.xml": "d2361d0d6e76b08c47d2bb52b5a01a4f0f543239c5d77f8b9c03515a4d2d359c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6f9cc56ed34de7bd5bd60f224b4aba95efc7c904ace516cbc06043be61744fa3",
+    "robots.txt": "c33a9dbad081401402fb2cfe9d6548c6e79187fe48f116a0d08b31ca45aa7779",
+    "d09959b98371b146bf45e5b34e61b4d3.txt": "65ddee622fb3cde2179979a1cba202fd8bded930d7028da0e77a0a9e67c8b7a2"
+  },
+  "revision": "f9812c8fcb2a97f5c83379532a9cfd4ba166af2169abfb56acb55b5788402e60"
+}
